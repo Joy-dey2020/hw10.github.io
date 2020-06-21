@@ -1,0 +1,52 @@
+
+body{
+    background-color: black;
+}
+h1{
+    font-size: 160px;
+    font-weight: 900;
+    color: aqua;
+    text-align: center;
+    font-family: 'Staatliches', cursive;
+    background-image: url(download.jpg);
+    background-size: 100% 100%;
+    letter-spacing: 3px;
+    color:transparent;
+    -webkit-background-clip:text;
+}
+.div1{
+    font-size: 160px;
+    font-weight: 900;
+    color: aqua;
+    text-align: center;
+    font-family: 'Staatliches', cursive;
+    background-image: url(100478611_488942228502667_1787898995884949504_n.png);
+    background-size: 100% 100%;
+    letter-spacing: 3px;
+    color:transparent;
+    -webkit-background-clip:text;
+}
+.div2{
+    font-size: 160px;
+    font-weight: 900;
+    color: aqua;
+    text-align: center;
+    font-family: 'Staatliches', cursive;
+    background-image: url(down.jpg);
+    background-size: 100% 100%;
+    letter-spacing: 3px;
+    color:transparent;
+    -webkit-background-clip:text;
+}
+.div3{
+    font-size: 160px;
+    font-weight: 900;
+    color: aqua;
+    text-align: center;
+    font-family: 'Staatliches', cursive;
+    background-image: url(downl.jpg);
+    background-size: 100% 100%;
+    letter-spacing: 3px;
+    color:transparent;
+    -webkit-background-clip:text;
+}
